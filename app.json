@@ -6,8 +6,8 @@
         "MDisk",
         "shortner"
     ],
-    "website": "https://github.com/Shashwat-Shukla/mdisk-ultra-bot",
-    "repository": "https://github.com/Shashwat-Shukla/mdisk-ultra-bot",
+    "website": "https://github.com/CyniteOfficial/Mdisk-Link-Converter-Bot",
+    "repository": "https://github.com/CyniteOfficial/Mdisk-Link-Converter-Bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token (must add)",
@@ -27,7 +27,7 @@
         },
         "MDISK_TOKEN": {
             "description": "Put your MDisk API key here",
-            "value": "j219piqFPsQBhba52F4l"
+            "value": "Qu7jX9V0Sn3q1JHdxjPp"
         }
     },
     "addons": [],
