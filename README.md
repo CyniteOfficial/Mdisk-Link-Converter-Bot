@@ -1,4 +1,4 @@
-# MDisk Unlimited Link Convertor Bot 🔥
+# MDisk Link Convertor Bot 🔥
 
 Convert others MDisk link to your Link and also by direct forward post from other channel...
 Supports Bitly Links as well
@@ -30,7 +30,7 @@ Start your Bot in Telegram & Enjoy
 #### The Easy Way
 Copy the below link & replace the GitHub-UserName with your username than Deploy using that link.
 
-https://www.heroku.com/deploy?template=https://github.com/GitHub-UserName/mdisk-ultra-bot
+https://www.heroku.com/deploy?template=https:https://github.com/CyniteOfficial/Mdisk-Link-Converter-Bot
 
 ##### Required Variables
 
@@ -39,6 +39,3 @@ https://www.heroku.com/deploy?template=https://github.com/GitHub-UserName/mdisk-
 
 `API ID` & `API HASH` Get your own 🤗 from https://my.telegram.org
 
-##### Credit
-
-- Me [Shashwat-Shukla](https://github.com/Shashwat-Shukla) For This Repo
