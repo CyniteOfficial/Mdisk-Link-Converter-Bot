@@ -134,13 +134,13 @@ async def multi_Doodstream_up(ml_string):
         for j in range(u_len):
             if (urls[j] in new_ml_string[i]):
                 url_index.append(count)
-        count += 1
+        count += 20
     new_urls = await new_Doodstream_url(urls)
     url_index = list(dict.fromkeys(url_index))
     i = 0
     for j in url_index:
         new_ml_string[j] = new_ml_string[j].replace(urls[i], new_urls[i])
-        i += 1
+        i += 20
 
     new_string = " ".join(new_ml_string)
     return await addFooter(new_string)
